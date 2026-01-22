@@ -1069,7 +1069,7 @@
     "m_ObjectId": "12d22249706643ef8b9e3e77878fc5be",
     "m_Title": "Stops lines getting thinner or thicker if your far or close up",
     "m_Position": {
-        "x": -4768.99951171875,
+        "x": -4769.0,
         "y": 466.0
     }
 }
@@ -1278,8 +1278,8 @@
     "m_ObjectId": "20debe8fba9a43ffb20f4660ac293d47",
     "m_Title": "Border Right",
     "m_Position": {
-        "x": -2000.9998779296875,
-        "y": 380.0000305175781
+        "x": -2001.0,
+        "y": 380.0
     }
 }
 
@@ -1882,7 +1882,7 @@
     "m_ObjectId": "4c36d40c2118410489b20d53546b46e6",
     "m_Title": "Border DOWN",
     "m_Position": {
-        "x": -2016.9998779296875,
+        "x": -2017.0,
         "y": 1763.0
     }
 }
@@ -2851,7 +2851,7 @@
     "m_ObjectId": "7f8c36bce1d14d2eb6274bddaa278076",
     "m_Title": "Border UP",
     "m_Position": {
-        "x": -1990.9998779296875,
+        "x": -1991.0,
         "y": 1100.0
     }
 }
@@ -4018,8 +4018,8 @@
     "m_ObjectId": "bd20b8926bae4c209cd186ae658daca2",
     "m_Title": "To visulize in game",
     "m_Position": {
-        "x": 399.9999694824219,
-        "y": 904.9998779296875
+        "x": 400.0,
+        "y": 905.0
     }
 }
 
@@ -4702,8 +4702,8 @@
     "m_ObjectId": "e0dc0fe94752487bb6cef7b0b029585c",
     "m_Title": "Border Left",
     "m_Position": {
-        "x": -1940.9998779296875,
-        "y": -276.0000305175781
+        "x": -1941.0,
+        "y": -276.0
     }
 }
 

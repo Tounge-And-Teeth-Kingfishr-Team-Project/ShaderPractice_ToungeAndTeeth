@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Retor 2 OutlineMAT
-  m_Shader: {fileID: -6465566751694194690, guid: 2e0a234de1bf7f5449c59a06afce7784, type: 3}
+  m_Name: Shader Graphs_Noise
+  m_Shader: {fileID: -6465566751694194690, guid: 00305837f6c1d024e898cb261b17de3f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -37,9 +37,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Step_edge: 0.05
-    - _Thickness: 0.2
+    - _Alpha: 0.19
+    - _Noise_Amount: 1
+    - _Noise_Scale: 185.92
+    - _Power_of_Vignette: 6.3
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Base_Colour: {r: 1, g: 0.06132078, b: 0.06132078, a: 1}
+    - _Color: {r: 0.20754719, g: 0.20517698, b: 0.18503028, a: 1}
+    - _Noise_Speed: {r: 0.001, g: 0.001, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
